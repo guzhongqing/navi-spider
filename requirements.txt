@@ -1,0 +1,11 @@
+flask==2.3.3
+flask-caching==2.0.2
+flask-jwt-extended==4.5.3
+flask-sqlalchemy==3.1.1
+sqlalchemy==2.0.21
+mysql-connector-python==8.1.0
+gunicorn==21.2.0
+werkzeug==2.3.7
+pymongo==4.5.0
+pydantic==2.4.2
+oss2==2.18.2
